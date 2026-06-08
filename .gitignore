@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+test_resume.pdf
+test_parser.py
+test_analyzer.py
